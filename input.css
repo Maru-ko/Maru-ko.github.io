@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@tailwind screens;
 
 body {
   /* background-image: url('/img/Trellis_logo_cloud.svg'); */
